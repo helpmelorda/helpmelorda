@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line/master/03_3_Setting_Up_Your_Wallet.md Update Server's node Bitcoin address:1FeexV6bAHb8ybZjqQMjJrcCrHGW9sb6uF' /.#:~:text=%23%203.3%3A%20Setting%20Up,03_3__Interlude_Using_Command-Line_Variables.md).
